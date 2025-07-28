@@ -4,7 +4,7 @@
 
 ### 🖥️ Visit My Digital Portfolio
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharonshiju.dev)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://sharonshiju.dev](https://sharonshiju.netlify.app/))
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/your-resume-id)
 
 </div>
