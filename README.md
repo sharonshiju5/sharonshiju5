@@ -111,10 +111,10 @@
 
 <div align="center">
 
-<a href="https://github.com/sharonshiju5/ecommerce-mern">
+<a href="https://github.com/sharonshiju5/e-comerce_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharonshiju5&repo=ecommerce-mern&theme=tokyonight" />
 </a>
-<a href="https://github.com/sharonshiju5/task-manager-app">
+<a href="https://github.com/sharonshiju5/chatapplication">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharonshiju5&repo=task-manager-app&theme=tokyonight" />
 </a>
 
