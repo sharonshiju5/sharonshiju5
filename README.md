@@ -94,9 +94,11 @@
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharonshiju5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonshiju5&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonshiju5&layout=compact&langs_count=8&theme=tokyonight&hide=python"/>
 </div>
 
 <div align="center">
