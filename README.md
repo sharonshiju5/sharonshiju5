@@ -1,4 +1,4 @@
-<img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/bded68c5-ea2b-4710-b049-9db1fc1e7325" /><h1 align="center">Hi 👋, I'm Sharon Shiju</h1>
+<h1 align="center">Hi 👋, I'm Sharon Shiju</h1>
 <h3 align="center">🚀 MERN Stack Developer | Passionate about building full-stack web apps</h3>
 
 ---
@@ -42,5 +42,4 @@
 <p align="center">
   <a href="mailto:sharonshiju261@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="[https://www.linkedin.com/in/sharonshiju](https://www.linkedin.com/in/sharon-shiju-pk/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/sharonshiju5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
