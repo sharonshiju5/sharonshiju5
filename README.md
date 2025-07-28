@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=sharonshiju5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sharonshiju5?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/sharonshiju5?label=Total%20Stars&style=social" alt="Stars" />
-  <a href="[https://sharonshiju.dev](https://sharonshiju.netlify.app/)"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat&logo=google-chrome" alt="Portfolio" /></a>
+  <a href="https://sharonshiju.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat&logo=google-chrome" alt="Portfolio" /></a>
 </p>
 
 ---
