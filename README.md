@@ -1,116 +1,44 @@
-<div align="center">
-
 # Sharon Shiju
-### MERN Stack Developer | Full-Stack Engineer
 
-[![Professional Profile](https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sharonshiju)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Live%20Projects-orange?style=flat-square&logo=google-chrome)](https://sharonshiju.dev)
-[![Email Contact](https://img.shields.io/badge/Email-Business%20Inquiries-red?style=flat-square&logo=gmail)](mailto:sharonshiju261@gmail.com)
+**MERN Stack Developer** | **Full-Stack Engineer** | **Open Source Contributor**
 
-</div>
-
----
-
-## Professional Summary
-
-Experienced MERN Stack Developer with a proven track record of delivering high-quality web applications. Specialized in modern JavaScript frameworks, RESTful API development, and database optimization. Committed to writing clean, maintainable code and implementing industry best practices.
-
-**Core Competencies:** Full-Stack Development • API Design • Database Architecture • Performance Optimization • Agile Methodologies
+[![Profile Views](https://komarev.com/ghpvc/?username=sharonshiju5&color=blue&style=flat-square)](https://github.com/sharonshiju5)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sharonshiju)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=google-chrome)](https://sharonshiju.dev)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:sharonshiju261@gmail.com)
 
 ---
 
-## Technical Expertise
+## 👨‍💻 About
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+Passionate full-stack developer with expertise in modern web technologies. I specialize in building scalable MERN stack applications and contributing to open-source projects. Currently learning cloud technologies and exploring mobile development.
 
-**Frontend Technologies**
-- JavaScript (ES6+)
-- React.js & Hooks
-- HTML5 & CSS3
-- Responsive Design
-- Modern UI Frameworks
+## 🔧 Tech Stack
 
-</td>
-<td align="center" width="33%">
+**Frontend:** JavaScript, React, HTML5, CSS3, Bootstrap, Tailwind CSS  
+**Backend:** Node.js, Express.js, RESTful APIs  
+**Database:** MongoDB, Mongoose  
+**Tools:** Git, VS Code, Postman, Vercel  
+**Learning:** AWS, Docker, TypeScript, React Native  
 
-**Backend Development**
-- Node.js & Express.js
-- RESTful API Design
-- Authentication Systems
-- Server Architecture
-- Performance Optimization
+## 📊 GitHub Stats
 
-</td>
-<td align="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api?username=sharonshiju5&show_icons=true&theme=default&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonshiju5&layout=compact&theme=default&hide_border=true" height="165">
 
-**Database & DevOps**
-- MongoDB & Mongoose
-- Database Design
-- Version Control (Git)
-- Deployment Strategies
-- Testing Frameworks
+## 🎯 Featured Projects
 
-</td>
-</tr>
-</table>
+- **[E-Commerce Platform](https://github.com/sharonshiju5/ecommerce-mern)** - Full-stack online shopping platform
+- **[Task Manager](https://github.com/sharonshiju5/task-manager)** - Collaborative productivity app
+- **[Weather Dashboard](https://github.com/sharonshiju5/weather-app)** - Interactive weather forecasting
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sharonshiju) - Professional networking
+- 🌐 [Portfolio](https://sharonshiju.dev) - View my work
+- 📧 [Email](mailto:sharonshiju261@gmail.com) - Direct contact
+- 🐦 [Twitter](https://twitter.com/sharonshiju5) - Tech discussions
 
 ---
 
-## Performance Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sharonshiju5&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharonshiju5&theme=github-dark-blue&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## Professional Development
-
-**Current Learning Initiatives:**
-- AWS Cloud Architecture & Services
-- DevOps & Containerization (Docker)
-- TypeScript & Advanced JavaScript Patterns
-- Mobile Development (React Native)
-
-**2024 Professional Goals:**
-- AWS Solutions Architect Certification
-- Lead complex full-stack projects
-- Mentor junior developers
-- Contribute to major open-source initiatives
-
----
-
-## Featured Project Portfolio
-
-| Project | Technology Stack | Key Features | Status |
-|---------|------------------|--------------|--------|
-| **Enterprise E-Commerce** | MERN, Stripe, JWT | Admin Panel, Payment Integration, Analytics | ✅ Live |
-| **Project Management Suite** | React, Node.js, Socket.io | Real-time Collaboration, Task Tracking | ✅ Live |
-| **Business Analytics Dashboard** | React, Chart.js, MongoDB | Data Visualization, Reporting | 🚧 Development |
-
----
-
-## Professional Network
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharonshiju)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Project%20Showcase-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharonshiju.dev)
-[![Email](https://img.shields.io/badge/Email-Business%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharonshiju261@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Transforming innovative ideas into scalable digital solutions"*
-
-**Available for consulting, collaboration, and full-time opportunities**
-
-</div>
+*Open to collaboration opportunities and interesting projects.*
