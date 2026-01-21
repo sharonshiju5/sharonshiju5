@@ -26,8 +26,8 @@ const skills = {
   frontend: ['React', 'Next.js', 'TypeScript', 'Redux', 'Tailwind CSS'],
   backend: ['Node.js', 'Express', 'MongoDB', 'REST APIs', 'JWT'],
   animation: ['Framer Motion', 'GSAP', 'React Spring'],
-  tools: ['Git', 'Docker', 'VS Code', 'Postman'],
-  learning: ['AWS', 'React Native', 'Kubernetes']
+  tools: ['Git', 'VS Code', 'Postman', 'Vercel', 'Netlify'],
+  learning: ['AWS', 'GraphQL', 'Microservices']
 };
 ```
 
